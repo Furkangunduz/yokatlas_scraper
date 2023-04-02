@@ -1,0 +1,24 @@
+{
+  "name": "yokatlas_scraper",
+  "version": "1.0.0",
+  "description": "A scraper for yokatlas.com",
+  "type": "module",
+  "main": "yokatlasScraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "clear": "^0.1.0",
+    "commander": "^10.0.0",
+    "exceljs": "^4.3.0",
+    "ora": "^6.3.0",
+    "puppeteer": "^19.8.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "readline": "^1.3.0"
+  }
+}
